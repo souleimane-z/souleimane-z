@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Souleimane</h1>
 <h3 align="center">Développeur Web qui a une affection pour le FrontEnd et React.JS</h3>
 <p align="center">
-<img src="https://zupimages.net/up/22/33/kwm5.png" alt="banner" width="769" height"463" /> </p
+<img src="https://zupimages.net/up/22/33/kwm5.png" alt="banner" width="769" height"463" /> </p>
+<h3 align="left">Projets:</h3>
+<p>
+  👨‍💻 Tous mes projets sont disponible ici : <a href="https://souleimanez.herokuapp.com/" target="blank" rel="noopener">Portfolio</a>
+</p>
 
-- 🌱 J'apprends continuellement ***React.JS***, ***JavaScript***, ***HTML*** / ***CSS***
-
-- 👨‍💻 Tous mes projets sont disponible ici : [**PORTFOLIO**](https://souleimanez.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://linkedin.com/in/souleimane-zeggai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souleimane-zeggai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/souleimane-zeggai" target="blank" rel="noopener" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souleimane-zeggai" height="30" width="40" /></a>
 <a href="https://twitter.com/souzzy_france" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souzzy_france" height="30" width="40" /></a>
 
 </p>
