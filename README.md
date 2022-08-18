@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souleimane</h1>
 <h3 align="center">Développeur Web qui a une affection pour le FrontEnd et React.JS</h3>
 <p align="center">
-<img src="https://zupimages.net/up/22/33/kwm5.png" alt="banner" width="960" height"540" /> </p
+<img src="https://zupimages.net/up/22/33/kwm5.png" alt="banner" width="769" height"463" /> </p
 
 - 🌱 J'apprends continuellement ***React.JS***, ***JavaScript***, ***HTML*** / ***CSS***
 
