@@ -44,7 +44,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cc-icon.svg" alt="inDesign" width="60" height="60" />
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="60" height="60" />
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="60" height="60" />
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-3.svg" alt="illustrator" width="60" height="60" />
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="60" height="60" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
